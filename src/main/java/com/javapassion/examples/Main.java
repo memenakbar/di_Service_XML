@@ -14,5 +14,7 @@ public class Main {
 			(CustomerService) context.getBean("customerService");
 		System.out.println(customerService.getCustomerGreeting());
 
+        //test
+
 	}
 }
