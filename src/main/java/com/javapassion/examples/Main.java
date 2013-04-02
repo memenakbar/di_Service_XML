@@ -15,6 +15,7 @@ public class Main {
 		System.out.println(customerService.getCustomerGreeting());
 
         //test
+        System.out.print("test");
 
 	}
 }
