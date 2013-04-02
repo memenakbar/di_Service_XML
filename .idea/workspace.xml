@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="359ed55a-e3de-4a7d-a972-887aae6f861a" name="Default" comment="" />
+    <list default="true" id="359ed55a-e3de-4a7d-a972-887aae6f861a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/javapassion/examples/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/javapassion/examples/Main.java" />
+    </list>
     <ignored path="di_Service_XML.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/pom.xml" changelist="359ed55a-e3de-4a7d-a972-887aae6f861a" time="1364886904175" ignored="false" />
     <file path="/fragment.java" changelist="359ed55a-e3de-4a7d-a972-887aae6f861a" time="1364888758968" ignored="false" />
     <file path="/Dummy.txt" changelist="359ed55a-e3de-4a7d-a972-887aae6f861a" time="1364890317514" ignored="false" />
-    <file path="/Main.java" changelist="359ed55a-e3de-4a7d-a972-887aae6f861a" time="1364890294362" ignored="false" />
+    <file path="/Main.java" changelist="359ed55a-e3de-4a7d-a972-887aae6f861a" time="1364891530134" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javapassion/examples/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="14" selection-start="560" selection-end="560" vertical-scroll-proportion="0.27116564">
+            <state line="17" column="37" selection-start="594" selection-end="594" vertical-scroll-proportion="0.29202455">
               <folding />
             </state>
           </provider>
@@ -551,7 +553,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -690,7 +692,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javapassion/examples/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="14" selection-start="560" selection-end="560" vertical-scroll-proportion="0.27116564">
+        <state line="17" column="37" selection-start="594" selection-end="594" vertical-scroll-proportion="0.29202455">
           <folding />
         </state>
       </provider>
